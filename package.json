@@ -3,7 +3,7 @@
 		"@commitlint/cli": "^19.8.1",
 		"@commitlint/config-conventional": "^19.8.1",
 		"@swc/core": "^1.11.24",
-		"@swc/jest": "^0.2.38",
+		"@swc/jest": "^0.2.39",
 		"capital-case": "^1.0.4",
 		"chalk": "^5.4.1",
 		"comment-json": "^4.2.5",
