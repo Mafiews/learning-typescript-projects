@@ -2,7 +2,7 @@
 	"devDependencies": {
 		"@commitlint/cli": "^19.8.1",
 		"@commitlint/config-conventional": "^19.8.1",
-		"@swc/core": "^1.11.24",
+		"@swc/core": "^1.13.21",
 		"@swc/jest": "^0.2.38",
 		"capital-case": "^1.0.4",
 		"chalk": "^5.4.1",
